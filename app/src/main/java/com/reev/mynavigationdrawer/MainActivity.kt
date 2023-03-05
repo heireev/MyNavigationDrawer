@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     private lateinit var profileCircleImageView: CircleImageView
-    private var profileImageUrl = "https://lh3.googleusercontent.com/-4qy2DfcXBoE/AAAAAAAAAAI/AAAAAAAABi4/rY-jrtntAi4/s640-il/photo.jpg"
+    private var profileImageUrl = "https://media.licdn.com/dms/image/D4D03AQHGZUcjRfNScg/profile-displayphoto-shrink_200_200/0/1674304477994?e=1682553600&v=beta&t=NNMy1sejIUEKiicg7yBmWV-HBrz3ilvftrRD4XqWovA"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
